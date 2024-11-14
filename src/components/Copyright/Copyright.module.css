@@ -1,0 +1,10 @@
+.copyright {
+    width: 100%;
+    justify-items: center;
+    margin-top: 64px;
+}
+
+.copyright>p {
+    color: gray;
+    font-size: 14px;
+}
